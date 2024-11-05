@@ -2,6 +2,8 @@
 
 Ce projet utilise un modèle de régression linéaire pour prédire les prix des biens immobiliers en fonction de diverses caractéristiques. Il comprend une application frontend en React et un backend en Flask.
 
+Lien du dataset Kaggle : [Housing prices dataset](https://www.kaggle.com/datasets/yasserh/housing-prices-dataset)
+
 
 ![Screenshot de l'application](/frontend/public/img/screenshot.jpeg)
 
